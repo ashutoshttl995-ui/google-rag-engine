@@ -1,0 +1,3 @@
+Google Gemini is a family of multimodal AI models developed by Google.
+It is designed to understand text, code, audio, images, and video.
+FastAPI combined with Gemini allows us to build production-grade RAG applications. 
