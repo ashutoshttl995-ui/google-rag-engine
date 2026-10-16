@@ -50,7 +50,7 @@ narwhals==2.27.1
 networkx
 numpy
 oauthlib==4.0.0
-onnxruntime==1.31.0
+onnxruntime
 opentelemetry-api==1.45.1
 opentelemetry-exporter-otlp-common==0.66b1
 opentelemetry-exporter-otlp-proto-common==1.45.1
